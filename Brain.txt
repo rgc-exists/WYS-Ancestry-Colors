@@ -1,0 +1,137 @@
+Made with Dolphin's WYS color scheme creator:
+file:///C:/Users/rando/OneDrive/Pictures/Will%20You%20Snail%20color%20scheme%20creator%20-%20speedrunners%20sunset%20v1.0.html
+(You can remove this if you want but I would appreciate it if you didn't)
+
+
+Background
+RGB: 59, 12, 51
+
+Background Pattern
+RGB: 50, 49, 16
+
+Background In Darkness
+RGB: 39, 40, 6
+
+Background Pattern In Darkness
+RGB: 31, 10, 28
+
+Wall A
+RGB: 125, 139, 14
+
+Wall B
+RGB: 12, 85, 53
+
+Wall A Dark
+RGB: 28, 31, 5
+
+Wall B Dark
+RGB: 6, 40, 25
+
+Wall Outline A
+RGB: 99, 99, 99
+
+Wall Outline B
+RGB: 75, 74, 72
+
+AI A
+RGB: 30, 109, 8
+
+AI B
+RGB: 38, 124, 14
+
+Enemies
+RGB: 73, 95, 37
+
+Enemy Warnings
+RGB: 128, 137, 108
+
+Snail Outline
+RGB: 79, 40, 34
+
+Snail Body
+RGB: 154, 142, 60
+
+Snail Shell
+RGB: 138, 79, 56
+
+Snail Eye
+RGB: 138, 137, 123
+
+Dallin
+RGB: 129, 97, 24
+
+Dialog Files
+RGB: 185, 39, 117
+
+Bubbles
+RGB: 136, 92, 48
+
+Underw Currents
+RGB: 130, 69, 118
+
+AI In Background
+RGB: 3, 11, 0
+
+Conveyor Belts
+RGB: 59, 59, 59
+
+Final Boss 1A
+RGB: 63, 81, 31
+
+Final Boss 1B
+RGB: 92, 80, 31
+
+Final Boss 2
+RGB: 67, 97, 15
+
+Final Boss 3
+RGB: 82, 15, 54
+
+TD Turret 1
+RGB: 0, 149, 82
+
+TD Turret 2
+RGB: 222, 196, 0
+
+TD Turret 3
+RGB: 206, 70, 149
+
+Exploration Points
+RGB: 155, 56, 23
+
+Corrupted Antenna
+RGB: 113, 47, 25
+
+Doors
+RGB: 97, 96, 98
+
+Unicorn
+RGB: 117, 31, 81
+
+Smiley 1
+RGB: 113, 121, 32
+
+Smiley 2
+RGB: 99, 29, 70
+
+Minimalist Color Mode
+0
+
+Snail Flare
+RGB: 35, 13, 5
+
+Snail Glow
+RGB: 37, 12, 4
+
+Player Spotlight
+RGB: 49, 17, 7
+
+Player Spotlight Dark
+RGB: 32, 11, 4
+
+Snail Death
+RGB: 155, 56, 23
+
+Snail Trail
+RGB: 111, 40, 17
+
